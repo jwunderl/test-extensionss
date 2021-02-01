@@ -8,7 +8,8 @@
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts"
+        "main.ts",
+        "testsasdf.ts"
     ],
     "testFiles": [
         "test.ts"
