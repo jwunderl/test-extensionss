@@ -13,6 +13,7 @@
     "testFiles": [
         "test.ts"
     ],
+    "fileDependencies": [],
     "public": true,
     "targetVersions": {
         "target": "1.3.42",
